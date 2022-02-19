@@ -1,0 +1,9 @@
+{
+  "name": "ke.ry.beco.hello_world",
+  "description": "Beco Hello World Example",
+  "path": "${CMAKE_CURRENT_BINARY_DIR}/hello-world",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://xxxxxxxx/"
+  ]
+}

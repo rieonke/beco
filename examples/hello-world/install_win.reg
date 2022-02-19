@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Google\Chrome\NativeMessagingHosts\ke.ry.beco.hello_world]
+@="${CMAKE_CURRENT_BINARY_DIR}/manifest.json"
+
